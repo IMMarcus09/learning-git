@@ -113,3 +113,5 @@ git push -u origin <FEATURE-A>
 
 
 #Merging a git branch 
+
+To avoid conflict we usually pull before me do a merge 
