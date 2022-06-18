@@ -114,4 +114,4 @@ git push -u origin <FEATURE-A>
 
 #Merging a git branch 
 
-To avoid conflict we usually pull before me do a merge 
+#To avoid conflict we usually pull before me do a merge , we often have to make a pull request before merging to solve conflicts 
